@@ -1,0 +1,12 @@
+
+
+header {
+    text-align: center;
+    color: rgb(23, 14, 78);
+    font-size: larger;
+}
+
+nav li {
+    text-align:center;
+    display: inline-table;
+}
